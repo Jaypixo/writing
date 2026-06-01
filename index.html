@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="A personal literature site powered by Markdown and vanilla JavaScript." />
+  <title>My Literature</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-shell">
+      <p class="eyebrow">Personal Literature</p>
+      <h1 class="site-title">My Literature</h1>
+      <p class="site-tagline">Stories written in Markdown, rendered in the browser.</p>
+    </div>
+  </header>
+
+  <main id="app" class="site-main" aria-live="polite">
+    <div class="site-shell">
+      <section id="status" class="status" hidden></section>
+      <section id="content"></section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-shell">
+      <small>Built with vanilla JavaScript, GitHub Pages-friendly static files, and Marked.js.</small>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
