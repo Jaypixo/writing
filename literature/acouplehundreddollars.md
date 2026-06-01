@@ -1,0 +1,30 @@
+---
+title: "A Couple Hundred Dollars"
+date: 2026-05-08
+category: "Fiction"
+---
+
+Your brain is just chemically wrong. Life is stressful, your meds have stopped working, you've plateaued harder than you thought possible. There's no point to this anymore. Your cats meow beside you. It feels like they know what you're going through, although realistically they just want to be fed. Nevertheless, the company is nice. Each one gets a kiss on the head before you grab the box of medication off of the counter and head to town.
+
+Upon arriving in the CBD you withdraw every last dollar off of your card at an ATM before snapping it in half and carelessly binning it. With your entire worth in your hand, approximately a couple hundred dollars, because you never learnt how to properly save, you make your way to the local Turkish place to order a kebab. You pull a 50 out of your pocket and hand it to the man to pay for your 15 dollar meal, offhandedly mentioning that he can keep the change, a look of suspicious disbelief twisting into happy confusion as you reassure him that you want him to have the money. You buy a Redbull and go to the craft store to buy a pack of staples as you forgot to take your SIM card out prior and need something small to poke it out. The action of snapping the chip into pieces causes a wave of giddy relief to wash over you, a feeling better than you've felt all year.
+
+With the last of your money still in your pocket, you make your way to the local cemetery and place 50 dollar notes besides the graves of the dead, in part an offering, and perhaps a plea for an easy ride down, in part hopes that it'll catch the wind and drift into the hands of those more deserving than you.
+You begin to pop each pill out of its casing as you make your way toward the beach, the crinkling rhythmic, a ticking clock counting down the minutes till your demise.
+The beach is beautiful, the sunset cascading into the ocean calmly lapping at the sand. You open the last Redbull you'll ever open and brace yourself. The pills are those of the rapidly acting dissolvable kind, not the capsule kind you begin to wish they were as the foul taste coats your mouth, the Redbull unable to account for the magnitude of medication just swallowed. But, the hard part is done. Now all that is left to do is to play the waiting game before taking death by the hand.
+
+Boredom. Instead of falling asleep at the beach like you had initially planned you decide to take a walk (or more like a stumble at this point) one last time around town. The stench of alcohol is strong, although it's a Friday so that's a given.
+You make your way into a phone booth, amused at the idea that you're probably the first person in forever to use it. Fingers sweaty and shaking as they press the digits for the suicide hotline. A brutish automated voice answers to let you know that all the operators are busy with calls and to wait your turn. Disappointed. You just wanted to hear someone say they loved you for the very last time or maybe even someone to talk to. But you understand. You walk around for a little while longer before ultimately ending up back in a booth, phone pressed to the ear listening to the voice on the line tell you they're full. It's whatever.
+
+You jump on a free bus to a yearly festival held in your town, hopeful that your last moments are spent surrounded by art and community, although perhaps your real intention for going there is so that when you inevitably pass out there are medical professionals on standby to help you. But that feeling is weighed down and crushed by the desperation to escape. It's beautiful, you're enamoured by the pretty lights and the joy of the people is infectious. You're so unsteady you keep walking into people, but you're at peace, you're happy. You want to lie down and fall asleep, only a couple more hours until nothing. Unfortunately the sense of peace is shattered when your survival instinct kicks in and on impulse you call the emergency services. You refuse to tell them your name because you don't want to be identified, although to some degree you truthfully don't remember your name.
+
+Two security guards find you pale and sweaty, ushering you to sit down against a nearby wall.
+It's like your mind wants to dance with death but your body so desperately doesn't, every muscle cramps up, limbs seizing, your mouth foaming as you ebb in and out of consciousness. Your body tries to purge the poison but your throat is so tight you start choking on your blood-ridden vomit, heart beating so fast you can't even feel it.
+
+Voices ask whether this was intentional or not, and the very thought of someone ingesting fatal amounts of prescription medication for a good time amuses you. After too long of a wait for an ambulance, the security guards phone the police instead in hopes they'll take you to the ER as fast as possible. All their words sound wrong, all of your words sound wrong, every sound is slurred and reality splits. Your motor functions are non existent at this point so the police carry you to their car.
+
+Despite the hospital being only 10 minutes away, it is the longest ride of your life, and when you finally arrive you collapse onto a hospital bed. Your muscles are so tense the sensation of the IV needle being inserted nearly makes you pass out from the pain although that is nothing compared to what your whole body is feeling. You muster up enough strength to control your throat to ask if you're going to die. Hope floods your system after they tell you that they're not sure. There's still a chance that this will all end, despite how gruelling the path there was.
+You stop responding verbally and start responding telepathically under the belief that doctors can read thoughts considering how many machines they've got hooked up to you. You lose consciousness.
+
+And then you wake up. Limbs tremoring and twitching, a nurse calmly sitting at a desk beside you. The clock ticks by slowly.
+
+You should've just hung yourself.
