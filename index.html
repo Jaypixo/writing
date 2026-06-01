@@ -4,16 +4,20 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="description" content="A personal literature site powered by Markdown and vanilla JavaScript." />
-  <title>My Literature</title>
+  <title>Jaypix's Archives</title>
   <link rel="stylesheet" href="./styles.css" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <header class="site-header">
     <div class="site-shell">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <img src="https://jaypix.dev/Public/Jaylogo.png" alt="Jaypix Logo" class="logo-img" style="height: 48px; margin-bottom: 1rem; opacity: 0.9;">
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">Loading...</button>
+      </div>
       <p class="eyebrow">Personal Literature</p>
-      <h1 class="site-title">My Literature</h1>
-      <p class="site-tagline">Stories written in Markdown, rendered in the browser.</p>
+      <h1 class="site-title">Jaypix's Archives</h1>
+      <p class="site-tagline">A collection of personal stories and reflections curated over time.</p>
     </div>
   </header>
 
@@ -26,7 +30,8 @@
 
   <footer class="site-footer">
     <div class="site-shell">
-      <small>Built with vanilla JavaScript, GitHub Pages-friendly static files, and Marked.js.</small>
+      <img src="https://jaypix.dev/Public/Jaylogo.png" alt="" class="logo-img" style="height: 14px; vertical-align: middle; margin-right: 6px; opacity: 0.5;">
+      <small>© Jaypix | Handcrafted with vanilla JavaScript and Markdown.</small>
     </div>
   </footer>
 

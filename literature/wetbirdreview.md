@@ -1,7 +1,7 @@
 ---
 title: "McDonald's Wet Bird Review"
 date: 2026-06-01
-category: "Fiction"
+category: "Philosophy"
 ---
 
 Evidently some regard the wet bird in ire, but I struggle to imagine that the meat glue constructions of the remainder of the menu provide anything which the wet bird does not. Homogenized muscle, connective tissue, bone, and fat will adhere together to form a new reality that enjoys it, but the wet bird falls out of this. It demands nothing.
