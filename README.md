@@ -1,26 +1,27 @@
-# Writing
+# The Jaypix Anthology
 
-This repository contains a completely static, browser-only literature site:
+A lightweight, zero-build literature engine that runs entirely in the browser. It transforms a GitHub folder of Markdown files into a categorized, navigable anthology without a server or build step.
 
-- no Jekyll
-- no Astro
-- no Eleventy
-- no local build step
-- no framework
-- no server
+### How It Works
+The application is a pure client-side SPA that leverages the GitHub API as a headless CMS:
 
-Stories live as plain Markdown files in a GitHub folder. The site uses the GitHub Contents API in the browser, parses simple frontmatter, and renders content with Marked.js.
+1.  **Discovery**: On initialization, `app.js` hits the GitHub Contents API to map out the `literature/` directory.
+2.  **Ingestion**: It fetches the raw content for every `.md` file discovered.
+3.  **Parsing**: A custom regex-based parser extracts frontmatter metadata (title, date, category) while the body is passed through `marked.js` for HTML rendering.
+4.  **State & Indexing**: Stories are indexed by slug and grouped by category in memory. Slugs are automatically derived from filenames.
+5.  **Routing**: Navigation is handled via hash routing (`#/story/slug` or `#/category/name`), triggering DOM re-renders without page refreshes.
 
-## Folder Layout
+### Data Schema
+The engine expects a standard frontmatter block at the top of each Markdown file to drive the UI:
 
-```text
-/
-├── index.html
-├── app.js
-├── styles.css
-├── literature/
-│   └── example-story.md
-└── README.md
+```md
+---
+title: "The Quiet Library"
+date: 2026-06-01
+category: "Literary Fiction"
+---
+
+Story content begins here...
 ```
 
 ## What The App Does
