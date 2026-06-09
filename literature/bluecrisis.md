@@ -1,12 +1,12 @@
 ---
-title: "The blue crisis of '01"
+title: "The blue crisis"
 date: 2026-06-05
-category: "Fiction"
+category: "Personal"
 ---
 
-Certain tapes and CDs were allowed at school; others weren’t. The same went for singing the songs and such.
+Certain music was allowed in school. Others weren’t. The same went for singing the songs and such.
 
-Prior to the summer of 2000, it was a rather simple matter. Typically, issues only arose when the boys (knowingly) tried to listen to something with swear words, or the girls tried playing something too spicy.
+Prior to that one summer, it was a rather simple matter. Typically, issues only arose when the boys (knowingly) tried to listen to something with swear words, or the girls tried playing something too spicy.
 
 Yes, there *had* been the incident in 6th grade where I wanted the band class to hear "Good Morning Star Shine" from the musical, Hair. This other kid then found and introduced everyone to a song called "Sodomy" from the soundtrack, but still.
 
@@ -18,167 +18,169 @@ And so did the teachers. Right up until the entrance of a terrifying album calle
 
 ## The Song Itself
 
-> Yo, listen up here's a story<p>
-> About a little guy<p>
-> That lives in a blue world<p>
-> And all day and all night<p>
-> And everything he sees is just blue<p>
-> Like him inside and outside<p>
-> Blue his house<p>
-> With a blue little window<p>
-> And a blue corvette<p>
-> And everything is blue for him<p>
-> And himself and everybody around<p>
-> Cause he ain't got nobody to listen to<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I have a blue house<p>
-> With a blue window<p>
-> Blue is the colour of all that I wear<p>
-> Blue are the streets<p>
-> And all the trees are too<p>
-> I have a girlfriend and she is so blue<p>
-> Blue are the people here<p>
-> That walk around<p>
-> Blue like my corvette its in and outside<p>
-> Blue are the words I say<p>
-> And what I think<p>
-> Blue are the feelings<p>
-> That live inside me<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I have a blue house<p>
-> With a blue window<p>
-> Blue is the colour of all that I wear<p>
-> Blue are the streets<p>
-> And all the trees are too<p>
-> I have a girlfriend and she is so blue<p>
-> Blue are the people here<p>
-> That walk around<p>
-> Blue like my corvette, it's standing outside<p>
-> Blue are the words I say<p>
-> And what I think<p>
-> Blue are the feelings<p>
-> That live inside me<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Cause he ain't got nobody to listen to<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I have a blue house<p>
-> With a blue window<p>
-> Blue is the colour of all that I wear<p>
-> Blue are the streets<p>
-> And all the trees are too<p>
-> I have a girlfriend and she is so blue<p>
-> Blue are the people here<p>
-> That walk around<p>
-> Blue like my corvette its in and outside<p>
-> Blue are the words I say<p>
-> And what I think<p>
-> Blue are the feelings<p>
-> That live inside me<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I have a blue house<p>
-> With a blue window<p>
-> Blue is the colour of all that I wear<p>
-> Blue are the streets<p>
-> And all the trees are too<p>
-> I have a girlfriend and she is so blue<p>
-> Blue are the people here<p>
-> That walk around<p>
-> Blue like my corvette, it's standing outside<p>
-> Blue are the words I say<p>
-> And what I think<p>
-> Blue are the feelings<p>
-> That live inside me<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> I'm blue<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
-> Da ba dee da ba di<p>
+<div style="border: 1px solid rgba(128,128,128,0.2); padding: 1.5rem; border-radius: 10px; background: rgba(128,128,128,0.05); font-family: 'SFMono-Regular', Consolas, monospace; font-size: 0.9em; max-height: 350px; overflow-y: auto; line-height: 1.6; margin: 2rem 0; white-space: pre-wrap;">
+Yo, listen up here's a story
+About a little guy
+That lives in a blue world
+And all day and all night
+And everything he sees is just blue
+Like him inside and outside
+Blue his house
+With a blue little window
+And a blue corvette
+And everything is blue for him
+And himself and everybody around
+Cause he ain't got nobody to listen to
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I have a blue house
+With a blue window
+Blue is the colour of all that I wear
+Blue are the streets
+And all the trees are too
+I have a girlfriend and she is so blue
+Blue are the people here
+That walk around
+Blue like my corvette its in and outside
+Blue are the words I say
+And what I think
+Blue are the feelings
+That live inside me
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I have a blue house
+With a blue window
+Blue is the colour of all that I wear
+Blue are the streets
+And all the trees are too
+I have a girlfriend and she is so blue
+Blue are the people here
+That walk around
+Blue like my corvette, it's standing outside
+Blue are the words I say
+And what I think
+Blue are the feelings
+That live inside me
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Cause he ain't got nobody to listen to
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I have a blue house
+With a blue window
+Blue is the colour of all that I wear
+Blue are the streets
+And all the trees are too
+I have a girlfriend and she is so blue
+Blue are the people here
+That walk around
+Blue like my corvette its in and outside
+Blue are the words I say
+And what I think
+Blue are the feelings
+That live inside me
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I have a blue house
+With a blue window
+Blue is the colour of all that I wear
+Blue are the streets
+And all the trees are too
+I have a girlfriend and she is so blue
+Blue are the people here
+That walk around
+Blue like my corvette, it's standing outside
+Blue are the words I say
+And what I think
+Blue are the feelings
+That live inside me
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+I'm blue
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+Da ba dee da ba di
+</div>
 
 ## Secret Meanings
 
